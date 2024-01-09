@@ -1,3 +1,1 @@
-using (edit edit = new edit())
-{
-    if (edit.ShowDialog() == DialogResult.OK)
+string disciplinaSelecionada = edit.DisciplinaSelecionada;
