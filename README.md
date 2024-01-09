@@ -1,1 +1,3 @@
-string disciplinaSelecionada = edit.DisciplinaSelecionada;
+string caminhoArquivo = $"{botao.Name}.txt";
+                                    
+File.WriteAllText(caminhoArquivo, disciplinaSelecionada);
