@@ -147,7 +147,8 @@ namespace teste_do_trabalho_escravo
         }
     }
 }
-
+ InicializarBotoes();
+ private Button[] botoes;
     }
 }
 
