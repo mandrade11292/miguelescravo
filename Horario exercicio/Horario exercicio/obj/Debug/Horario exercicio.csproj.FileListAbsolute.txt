@@ -1,0 +1,12 @@
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario exercicio.csproj.AssemblyReference.cache
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario exercicio.csproj.SuggestedBindingRedirects.cache
+U:\psi2\Horario exercicio\Horario exercicio\bin\Debug\Horario exercicio.exe.config
+U:\psi2\Horario exercicio\Horario exercicio\bin\Debug\Horario exercicio.exe
+U:\psi2\Horario exercicio\Horario exercicio\bin\Debug\Horario exercicio.pdb
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario_exercicio.edit.resources
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario_exercicio.Form1.resources
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario_exercicio.Properties.Resources.resources
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario exercicio.csproj.GenerateResource.cache
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario exercicio.csproj.CoreCompileInputs.cache
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario exercicio.exe
+U:\psi2\Horario exercicio\Horario exercicio\obj\Debug\Horario exercicio.pdb
